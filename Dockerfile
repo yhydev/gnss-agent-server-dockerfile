@@ -1,1 +1,1 @@
-FROM yanyangpapa/gnss-agent-server:latest
+FROM yanyangpapa/gnss-agent-server:2
